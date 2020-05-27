@@ -1,0 +1,38 @@
+[
+    {
+        "_id" : "5e30275d141401679e3832a1",
+        "role" : "admin",
+        "name" : "Emre Kabaca",
+        "email" : "emre_kabaca123@hotmail.com",
+        "password" : "123456"
+
+    },
+    {
+        "_id" : "5e2866280427c1ff0dd2b5cb",
+        "name" : "Hande Yıldız",
+        "email" : "inonias@gmail.com",
+        "password" : "123456"
+
+    },
+    {
+        "_id" : "5e300f0ffbb6b05ee9037fd2",
+        "name" : "Yağmur karabal",
+        "email" : "info@emrekabaca.com",
+        "password" : "123456"
+
+    },
+    {
+        "_id" : "5e2effcccbdf585842cdb6ce",
+        "name" : "Elif Toprak",
+        "email" : "eliftoprak@gmail.com",
+        "password" : "123456"
+
+    },
+    {
+        "_id" : "5e302931752a052e11096e96",
+        "name" : "Özge Taşçı",
+        "email" : "ozgetasci@gmail.com",
+        "password" : "123456"
+    }
+]
+
