@@ -1,5 +1,5 @@
 # soru-cevap-rest-api
 
-Kurs Linki: https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/
+Kurs Linki: https://bit.ly/3cnxyBk
 
-Github Reposu: https://github.com/mustafamuratcoskun/question-answer-rest-api
+Github Reposu: https://bit.ly/2zKzTcc
